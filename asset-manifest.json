@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/indigitalcultures-mockup-1/static/css/main.cae44620.css",
+    "main.js": "/indigitalcultures-mockup-1/static/js/main.9828fd6a.js",
+    "index.html": "/indigitalcultures-mockup-1/index.html",
+    "main.cae44620.css.map": "/indigitalcultures-mockup-1/static/css/main.cae44620.css.map",
+    "main.9828fd6a.js.map": "/indigitalcultures-mockup-1/static/js/main.9828fd6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae44620.css",
+    "static/js/main.9828fd6a.js"
+  ]
+}
